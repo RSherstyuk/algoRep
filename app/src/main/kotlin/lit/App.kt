@@ -21,4 +21,5 @@ fun main() {
     l.addFirst(12)
     l.addFirst(14)
     println(l)
+    println()
 }
